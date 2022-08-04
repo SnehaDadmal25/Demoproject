@@ -26,4 +26,5 @@ main()
 	subcharge=0.2*bill;
 	totalamount=bill+subcharge;
 	printf("\n total amount to be paid in rs=%0.2f",totalamount);
+	printf("\n Hello World");
 }
